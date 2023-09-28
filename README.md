@@ -1,6 +1,3 @@
-## ⚠ IMPORTANT ⚠
-> **BEFORE REPORTING ANYTHING PLEASE READ THIS**
-
 ## About
 Vaccine form helper for moeisind.moe.gov.my since there's repetition of date for compound type vaccine. Written in javascript
 
