@@ -24,3 +24,11 @@ Vaccine form helper for [moeisind.moe.gov.my](https://moeisind.moe.gov.my/profil
 * Copy dates from Difteria (D) into Pertussis (P) and Tetanus (T)
 * Copy dates from Haemophilus Influenza (HIB) into Polio (IPV)
 * Copy dates from Measles into Mumps and Rubella
+
+## Changelog
+ 
+#### Release 1.0 (September 29, 2023)
+* Initial release
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+    
