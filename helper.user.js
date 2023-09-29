@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         moeisind Helper Form Vaccine Anak
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/tbx0/helperMoeIS
 // @version      1.0
 // @description  Unhide elements hidden by web developers to simplify the information filling process for parents. Also, auto-copy and paste for DTaP, HIB, IPV, and MMR vaccine dates.
 // @author       You
