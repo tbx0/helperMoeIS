@@ -12,6 +12,6 @@ Vaccine form helper for moeisind.moe.gov.my since there's repetition of date for
 > ##### Note: After installation (which requires restarting your browser), you are now ready to install userscripts.
 
 #### Step 2: UserScript
-* [Install](https://raw.githubusercontent.com/tobekko/helperMoeIS/main/helper.user.js) *from github.com*
+* [Install](https://raw.githubusercontent.com/tbx0/helperMoeIS/main/helper.user.js) *from github.com*
 
 > ##### Note: [Test](https://moeisind.moe.gov.my/)
