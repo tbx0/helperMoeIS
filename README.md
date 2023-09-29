@@ -1,6 +1,6 @@
 ## About
 ![](https://raw.githubusercontent.com/tbx0/helperMoeIS/gh-pages/images/kesihatan-tab.png)
-Vaccine form helper for [moeisind.moe.gov.my](https://moeisind.moe.gov.my/profil/anak) since there's repetition of date for compound type vaccine. Written in javascript
+Vaccine form helper for [moeisind.moe.gov.my](https://moeisind.moe.gov.my/profil/anak) since there's repetition of date for compound type vaccine. Written in javascript.
 
 ## Instruction
 
