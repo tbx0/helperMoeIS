@@ -5,7 +5,7 @@
 // @description  Unhide elements hidden by web developers to simplify the information filling process for parents. Also, auto-copy and paste for DTaP, HIB, IPV, and MMR vaccine dates.
 // @author       You
 // @match        https://moeisind.moe.gov.my/profil/anak/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.my
+// @icon         https://raw.githubusercontent.com/tbx0/helperMoeIS/gh-pages/images/logo_idms.png
 // @grant        none
 // ==/UserScript==
 
