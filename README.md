@@ -1,4 +1,5 @@
 ## About
+![](https://raw.githubusercontent.com/tbx0/helperMoeIS/gh-pages/images/kesihatan-tab.png)
 Vaccine form helper for [moeisind.moe.gov.my](https://moeisind.moe.gov.my/profil/anak) since there's repetition of date for compound type vaccine. Written in javascript
 
 ## Instruction
@@ -18,7 +19,6 @@ Vaccine form helper for [moeisind.moe.gov.my](https://moeisind.moe.gov.my/profil
 
 ## Features
 * Auto check all checkbox in Kesihatan Tab
-![](https://raw.githubusercontent.com/tbx0/helperMoeIS/gh-pages/images/kesihatan-tab.png)
 * Auto copy dates from Difteria (D) into Pertussis (P) and Tetanus (T)
 * Auto copy dates from Haemophilus Influenza (HIB) into Polio (IPV)
 * Auto copy dates from Measles into Mumps and Rubella
