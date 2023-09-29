@@ -18,7 +18,9 @@ Vaccine form helper for [moeisind.moe.gov.my](https://moeisind.moe.gov.my/profil
 > ##### Note: [Test](https://moeisind.moe.gov.my/profil/anak)
 
 ## Features
-* Auto check all checkbox in Kesihatan Tab > Maklumat Asas Kesihatan Dan Imunisasi
-* Auto copy dates from Difteria (D) into Pertussis (P) and Tetanus (T)
-* Auto copy dates from Haemophilus Influenza (HIB) into Polio (IPV)
-* Auto copy dates from Measles into Mumps and Rubella
+* Only applies to [moeisind.moe.gov.my](https://moeisind.moe.gov.my/profil/anak) > Kesihatan Tab > Maklumat Asas Kesihatan Dan Imunisasi
+* Unhide all hidden input elements
+* Check all checkbox in Vaccine Table
+* Copy dates from Difteria (D) into Pertussis (P) and Tetanus (T)
+* Copy dates from Haemophilus Influenza (HIB) into Polio (IPV)
+* Copy dates from Measles into Mumps and Rubella
